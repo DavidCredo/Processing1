@@ -1,7 +1,3 @@
 void yessir(){
   
 }
-
-void funktion() {
-
-}
